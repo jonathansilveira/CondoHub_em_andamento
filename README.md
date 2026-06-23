@@ -274,10 +274,14 @@ Sugestões e feedbacks são sempre bem-vindos.
 
 ---
 
-## 👨‍💻 Autor
+👨‍💻 Autor
 
-Desenvolvido com dedicação por **Jonathan Santos**.
+Desenvolvido com dedicação por Jonathan Santos.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-blue?style=for-the-badge\&logo=linkedin)](https://www.linkedin.com)
+Sou Bacharel em Ciência da Computação e desenvolvedor apaixonado por tecnologia, arquitetura de software e desenvolvimento Full Stack. Este projeto foi criado com o objetivo de aplicar conceitos avançados de engenharia de software, segurança, desenvolvimento web e mobile em uma solução real para gestão condominial.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Perfil-black?style=for-the-badge\&logo=github)](https://github.com)
+🌐 Contato
+GitHub: https://github.com/jonathansilveira
+LinkedIn: https://www.linkedin.com/in/jonathansilveira1/
+
+⭐ Se este projeto foi útil ou interessante para você, considere deixar uma estrela no repositório.
